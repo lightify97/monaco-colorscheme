@@ -125,7 +125,7 @@
       <key>name</key>
       <string>Javascript: Object property</string>
       <key>scope</key>
-      <string>source.js meta.group.js meta.block.js meta.property.object.js,text.html.basic source.js.embedded.html meta.block.js meta.function-call.method.js support.function.dom.js,source.js meta.block.js meta.function-call.method.js support.function.dom.js</string>
+      <string>source.js meta.group.js meta.block.js meta.property.object.js,text.html.basic source.js.embedded.html meta.block.js meta.function-call.method.js support.function.dom.js,source.js meta.block.js meta.function-call.method.js support.function.dom.js,source.js meta.function-call.method.js variable.function.js</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
