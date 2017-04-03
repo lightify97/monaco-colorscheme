@@ -1,13 +1,14 @@
-# New Monokai ( The ol' Days are long past. )
+# Monaco Color Scheme
 ### Don't you &hearts; that colorful **Code**?
-The colorschemes are based on Agilia Monokai Extended colorscheme. That colorscheme was highly modified to look like what they are now.
+The colorschemes are based on [Agilia Monokai Extended colorscheme](https://github.com/arvi/Agila-Theme). That colorscheme was highly modified to look like what they are now.
 
 ## Install
-Just clone (or download the repo and extract) in 'Packages directory of your sublime configuration'
+Just clone (or download the repo and extract) in 'Packages' directory of your sublime configuration. 
+
 #### For Linux
 ```shell
     cd ~/.config/sublime-text-3/Packages
-    git clone https://github.com/ramazan360/new-monokai
+    git clone https://github.com/ramazan360/monaco-colorscheme
 ```
 And then Select from the *Preferences > colorscheme > new-monokai* in sublime text.
 

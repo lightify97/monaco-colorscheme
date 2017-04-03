@@ -22,7 +22,7 @@
   <key>name</key>
   <string>New Monokai</string>
   <key>semanticClass</key>
-  <string>theme.dark.new_monokai</string>
+  <string>theme.dark.monaco</string>
   <key>settings</key>
   <array>
     <dict>
@@ -1968,7 +1968,7 @@
       <key>name</key>
       <string>Php: Variable start</string>
       <key>scope</key>
-      <string>embedding.php text.html.basic meta.embedded.block.php source.php meta.class.php meta.block.php variable.other.php punctuation.definition.variable.php, embedding.php text.html.basic meta.embedded.block.php source.php meta.group.php variable.other.global.php punctuation.definition.variable.php,embedding.php text.html.basic meta.embedded.block.php source.php string.quoted.double.php meta.string-contents.quoted.double.php variable.other.global.php punctuation.definition.variable.php,embedding.php text.html.basic meta.embedded.block.php source.php variable.other.php punctuation.definition.variable.php,embedding.php text.html.basic meta.embedded.block.php source.php meta.group.php meta.function-call.php meta.group.php variable.other.global.safer.php punctuation.definition.variable.php,embedding.php text.html.basic meta.embedded.block.php source.php meta.group.php meta.group.php variable.other.global.safer.php punctuation.definition.variable.php,embedding.php text.html.basic meta.embedded.block.php source.php variable.other.global.safer.php punctuation.definition.variable.php</string>
+      <string>embedding.php text.html.basic meta.class.php meta.block.php variable.other.php punctuation.definition.variable.php</string>
       <key>settings</key>
       <dict>
         <key>fontStyle</key>
