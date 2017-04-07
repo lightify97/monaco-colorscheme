@@ -47,7 +47,7 @@
         <key>findHighlightForeground</key>
         <string>#000000</string>
         <key>foreground</key>
-        <string>#333333</string>
+        <string>#111111</string>
         <key>invisibles</key>
         <string>#3B3A32</string>
         <key>lineHighlight</key>
