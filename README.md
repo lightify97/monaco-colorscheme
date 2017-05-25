@@ -10,7 +10,7 @@ Just clone (or download the repo and extract) in 'Packages' directory of your su
     cd ~/.config/sublime-text-3/Packages
     git clone https://github.com/ramazan360/monaco-colorscheme
 ```
-And then Select from the *Preferences > colorscheme > new-monokai* in sublime text.
+And then Select from the *Preferences > colorscheme > monaco in sublime text.
 
 ## Screenshots
 ### C
