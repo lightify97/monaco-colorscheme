@@ -8,7 +8,7 @@ Just clone (or download the repo and extract) in 'Packages' directory of your su
 #### For Linux
 ```shell
     cd ~/.config/sublime-text-3/Packages
-    git clone https://github.com/mramzn/monaco-colorscheme
+    git clone https://github.com/lightify97/monaco-colorscheme
 ```
 And then Select from the *Preferences > colorscheme > monaco in sublime text.
 
